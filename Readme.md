@@ -105,6 +105,7 @@ I Installed the `tree` package.
 *Screenshot 6a: Shows `sudo apt install -y tree` and version confirmation with `tree --version`.*
 
 I installed the tree utility using the command `sudo apt install -y tree`, which downloads and sets up the package on your Ubuntu system in a non-interactive way (thanks to the -y flag automatically confirming prompts). The tree command is a useful tool for visually displaying directory structures in a hierarchical tree format, making it easier to navigate and understand folder layouts. After installation, i verified the installed version by running tree --version, which outputs the current version number, confirming that the tool is ready for use
+
 ---
 
 ## Task 6: Test Remote Connectivity
